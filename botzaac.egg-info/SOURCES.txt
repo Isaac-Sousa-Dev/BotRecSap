@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botzaac/__init__.py
+botzaac/__main__.py
+botzaac/bot.py
+botzaac.egg-info/PKG-INFO
+botzaac.egg-info/SOURCES.txt
+botzaac.egg-info/dependency_links.txt
+botzaac.egg-info/requires.txt
+botzaac.egg-info/top_level.txt
+botzaac/resources/start.png
