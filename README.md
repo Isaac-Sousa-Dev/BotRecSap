@@ -1,6 +1,5 @@
 # botzaac
 
-Minha primeira automação
 
 Utilizando Botcity e algumas linhas de 
 código em Python.
